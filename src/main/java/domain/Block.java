@@ -18,6 +18,8 @@ public class Block {
     private long timeStamp;
     private int nonce;
 
+    
+
     public Block(String data, String previousHash, long timeStamp) {
         this.data = data;
         this.previousHash = previousHash;
