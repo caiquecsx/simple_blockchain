@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/caiquecsx/simple_blockchain/compare/v1.0.0...v1.1.0) (2023-02-01)
+
+
+### Features
+
+* updated it ([458201e](https://github.com/caiquecsx/simple_blockchain/commit/458201eda52eb200595fb01f4776c544141ff34d))
+
+
+### Bug Fixes
+
+* updated it again ([0b534f7](https://github.com/caiquecsx/simple_blockchain/commit/0b534f743ae4cfd44121cc86738700ffe9005018))
+
 ## 1.0.0 (2023-02-01)
 
 
