@@ -4,7 +4,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>simple_blockchain</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
